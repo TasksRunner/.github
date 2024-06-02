@@ -379,7 +379,7 @@ The backend architecture of `fixflex` employs dependency injection using the tsy
 
 The database used for `fixflex` is MongoDB, a NoSQL database that stores data in a flexible, JSON-like format.
 
-See [Database Schema](MongoDB-schema-visualization.md) file for more details.
+See - [3.2 Design of Database (ERD or Class Diagram)](#32-design-of-database-erd-or-class-diagram) file for more details.
 
 The database schema for `fixflex` consists of the following collections:
 
