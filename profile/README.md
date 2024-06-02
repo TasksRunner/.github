@@ -131,6 +131,115 @@ Understanding the limitations and constraints of a project is crucial for its su
 
 - **Methodology:** We followed Agile analysis and design methodology, developing all related UML diagrams.
 
+#### 2.1.1 Feasibility
+
+**Technical Feasibility:** The technical feasibility of the project was assessed by considering the available resources,
+technologies, and infrastructure required for the development and deployment of the FixFlex platform.
+The project team conducted a thorough analysis of the technical requirements and evaluated the available technologies and tools to determine
+the feasibility of implementing the proposed system.
+
+#### 2.1.2 Estimated Cost
+
+**Development Cost:** The estimated cost of developing the FixFlex platform was calculated based on the resources, technologies, and infrastructure required for the project.
+The development cost included expenses related to software development, hardware, licensing, hosting, and other associated costs.
+
+#### 2.1.3 Gantt Chart
+
+## 2.1.3 Gantt Chart
+
+### Productivity & Workflow Template
+
+#### Project Initiation #project-initiation
+
+- **Define Scope**
+  - Identify key features
+  - Set objectives
+- **Requirements Gathering**
+  - Collect requirements from stakeholders
+  - Document requirements
+
+#### Design Phase #design-phase
+
+- **System Architecture Design**
+  - Data flow design
+  - Services identification
+  - Integrations outline
+- **UI/UX Design**
+  - Web application design
+  - Mobile application design
+
+#### Development Phase #development-phase
+
+- **Backend Development**
+  - Authentication module
+  - Task management system
+  - User management system
+  - Payment processing
+  - Notifications system
+- **Frontend Development**
+  - Web application frontend
+  - Mobile application frontend
+- **Integration of Third-Party Services**
+  - Paymob integration
+  - OneSignal integration
+  - WhatsApp API integration
+- **Database Design and Implementation**
+  - Users database
+  - Tasks database
+  - Payments database
+  - Notifications database
+
+#### Testing Phase #testing-phase
+
+- **Unit Testing**
+  - Backend unit tests
+  - Frontend unit tests
+- **Integration Testing**
+  - Backend and frontend integration
+  - Third-party services integration
+- **User Acceptance Testing (UAT)**
+  - Real user feedback collection
+  - Necessary adjustments
+
+#### Deployment Phase #deployment-phase
+
+- **Deployment to Serverless Platform**
+  - Render deployment
+- **Monitoring and Optimization**
+  - Performance monitoring
+  - Scalability optimization
+
+#### Launch Phase #launch-phase
+
+- **User Training and Support**
+  - Training sessions
+  - Support documentation
+- **Post-launch Support and Maintenance**
+  - Bug fixes
+  - Feature enhancements
+
+### Resources
+
+- **Tools:**
+  - Project management software
+  - Design tools (e.g., Figma)
+  - Development environment
+  - Testing tools
+- **Team:**
+  - Project manager
+  - UX/UI Designers
+  - Backend Developers
+  - Frontend Developers
+  - Mobile Developers
+  - QA Engineers
+
+### Notes
+
+- Weekly check-ins scheduled every [Day of Week]
+- Bi-weekly sprint reviews and planning
+- Maintain version control using [Version Control System]
+- Ensure documentation is updated continuously
+
 ### 2.4 Analysis of the New System
 
 #### 2.4.1 User Requirements
@@ -236,174 +345,6 @@ Our FixFlex will consist of the following users:
 
 ### 4.1 Software Architecture
 
----
-
-## Chapter 5: Testing
-
-### 5.1 Test Cases
-
-### 5.2 Bug Reports
-
----
-
-## Chapter 6: Result
-
-### 6.1 Expected Results
-
-### 6.2 Actual Results
-
----
-
-## Chapter 7: Conclusion
-
-### 7.1 Conclusion
-
----
-
-## Detailed Content
-
-### Chapter 1: Introduction
-
-#### 1.1 Overview
-
-**What is FixFlex?**
-
-FixFlex is a platform that connects people who need tasks done with individuals willing to complete those tasks for pay. It operates like traditional freelancing platforms such as Upwork, Fiverr, and Freelancer, where users can post tasks or jobs, and taskers make offers on these tasks. The user then selects the most suitable tasker for the job.
-
-**Key Differences:**
-
-- FixFlex focuses on a wide range of everyday tasks and services.
-- Specializes in connecting people who need tasks like plumbing, electricity, painting, cleaning, moving, and more with handymen willing to perform these tasks for pay.
-
-**For Task Posters:**
-
-- Creating a job listing is straightforward.
-- Upload a detailed description of your task, specify the category, set your budget, and add any relevant images or documents.
-
-**For Taskers:**
-
-- Set offers that users can choose from.
-- Create a compelling profile highlighting your expertise, experience, and previous work.
-- Browse through a variety of tasks, submit quotes, and communicate directly with potential clients.
-
-**Platform Features:**
-
-- Transparency and trust with ratings and reviews.
-- Secure and straightforward payments.
-- Mobile apps for both iOS and Android devices for convenient access.
-
-Whether you're looking to get a task done or to offer your skills, FixFlex is your go-to platform for seamless, efficient, and trustworthy service exchanges.
-
-#### 1.2 Objectives
-
-- **Accessibility for All:** FixFlex's primary goal is to be an inclusive platform, welcoming users from various walks of Egypt. We aim to bridge the gap between demand and supply in the service sector, ensuring easy access for everyone.
-- **Support for Varied Needs:** FixFlex provides a comprehensive range of categories, ensuring that no matter what your requirements are, you will find a skilled professional to help you.
-- **Upholding Privacy and Confidentiality:** We place a high value on the privacy and confidentiality of our users. Personal information and transaction details are securely handled and protected.
-- **Ensuring Quality and Reliability:** FixFlex implements a robust system of ratings and reviews, ensuring a reliable and quality experience.
-- **Fostering a Community of Support:** By providing a platform where individuals can seek help and professionals can offer their services, FixFlex aims to foster a sense of community and mutual support.
-
-#### 1.3 Purpose
-
-- **Diversity in Services:** FixFlex provides many services that the customer needs with high quality, so that the customer can find what he needs in one place.
-- **Speed:** FixFlex works to quickly respond to the request and ensures its presence in all governorates in Egypt for rapid arrival.
-
-#### 1.4 Scope
-
-- **Broad Geographic Reach:** FixFlex aims to assist people across various locations and regions.
-- **Verification and Transparency:** Ensuring the authenticity of the cases and building trust with donors by supporting campaigns with photos.
-- **Open Platform:** FixFlex will be an open platform where any visitor can submit a case that requires assistance.
-
-#### 1.5 General Constraints
-
-Understanding the limitations and constraints of a project is crucial for its successful execution and management. Here are the general constraints for the FixFlex project:
-
-- **Time Constraint:** The project is subject to a specific timeline, which includes deadlines for each phase and the final rollout date.
-- **Scope Constraint:** This defines the boundaries of the project, including its goals, deliverables, features, and functions.
-- **Cost Constraint:** The budget of the project is a critical constraint, encompassing all financial resources required for timely and effective completion within the defined scope.
-- **Collecting Raw Data:** Gathering the necessary data for the project poses its own set of challenges.
-
----
-
-## Chapter 2: Planning and Analysis
-
-### 2.1 Project Planning
-
-**Development Approach and Methodology**
-
-- **System Development Life Cycle:** We followed the system development life cycle approach with its 7 phases: planning, analysis, design, development, testing, deployment, and maintenance.
-- **Methodology:** We followed Agile analysis and design methodology, developing all related UML diagrams.
-
-### 2.4 Analysis of the New System
-
-#### 2.4.1 User Requirements
-
-Our FixFlex will consist of the following users:
-
-1. **User:**
-   - Can create an account, log in, upload a profile image, update profile details, post tasks, receive offers, track task status, communicate with taskers, rate taskers, and make payments.
-2. **Tasker:**
-   - Can do everything a user does, plus upload work type, phone number, location to profile, browse tasks, make offers, and send notifications.
-3. **Admin:**
-   - Can delete or update tasks, and manage user and tasker details.
-
-#### 2.4.2 System Requirements
-
-- **Software and Hardware:** Details of the software, hardware, and network infrastructure used for the system.
-- **Database:** The type and location of the database.
-- **Programming Languages:** The programming languages used in the system.
-
-#### 2.4.3 Domain Requirements
-
-- **Business Needs:** The benefits and goals of the system for the business, aligning with project and stakeholder objectives.
-
-#### 2.4.4 Functional Requirements
-
-1. **Registration:**
-   - Users must log in with basic details (first name, last name, email, password, mobile number, address).
-2. **Login User:**
-   - Users log in with email and password, edit profiles, and upload profile images.
-3. **Login Admin:**
-   - Admin logs in with email and password, updates profile, manages users and tasks.
-4. **Task Posting:**
-   - Users describe tasks, set budgets, select categories, and post tasks.
-5. **Browse Task:**
-   - Taskers browse tasks, view details, make offers, and complete tasks.
-6. **Real-time Chat:**
-   - Users and taskers communicate in real-time through the built-in chat system.
-7. **Task Status Tracking:**
-   - Users track task status and receive notifications.
-8. **Ratings and Review:**
-   - Users rate taskers and leave reviews based on their experience.
-
-#### 2.4.5 Non-Functional Requirements
-
-1. **Performance Requirements:**
-   - Support multiple users, normalized and distributed database, and frequent backups.
-2. **Safety Requirements:**
-   - Database backup to prevent data loss.
-3. **Security Requirements:**
-   - Ensure system consistency and security, restrict communication during user validation.
-4. **Usability:**
-   - Achieve user goals easily, perform tasks quickly, and provide a simple design.
-
-### 2.5 Advantages of the New System
-
-- **Unified Home Repair Services:** Brings together multiple services in one place.
-- **Comprehensive Service Range:** Focuses on a variety of services, not just one.
-
-### 2.6 Risk and Risk Management
-
-**Risks:**
-
-1. Not gaining customer trust.
-2. Responsibility due to providing many services.
-
----
-
-## Chapter 3: System Design
-
-### 3.1 Software Architecture 🏗️
-
 The backend of `fixflex` follows a modular, scalable, and maintainable architecture, leveraging TypeScript, Express.js, and MongoDB. The architecture is designed to ensure code reusability, separation of concerns, and scalability to accommodate future growth and changes in the application's requirements.
 
 ## Model-View-Controller (MVC) Pattern 🌐
@@ -493,13 +434,9 @@ The backend architecture of `fixflex` includes a robust error handling mechanism
 - `Error Logging`: Logs errors and exceptions to track application behavior, monitor performance, and debug issues effectively.
 - `Error Response Format`: Standardizes error responses with a consistent format, including status codes, error messages, error details, and stack traces.
 
----
-
-## Chapter 4: System Implementation and Results
-
-### 4.1 Software Architecture
-
 ### 4.2 Flowchart or Workflow
+
+![diagram-export-6-3-2024-1_55_55-AM](https://github.com/fixflex/backend/assets/124518625/41acd44d-aa8d-498c-b1fd-493e7f7c4b48)
 
 ---
 
