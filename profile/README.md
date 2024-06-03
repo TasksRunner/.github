@@ -331,7 +331,9 @@ Our FixFlex will consist of the following users:
 
 ### 3.4 Sequence Diagram
 
-![diagram-export-6-3-2024-5_22_11-AM](https://github.com/fixflex/backend/assets/124518625/6a5edb6e-a134-4d01-b9f2-f8488e94af3c)
+<!-- ![diagram-export-6-3-2024-5_22_11-AM](https://github.com/fixflex/backend/assets/124518625/6a5edb6e-a134-4d01-b9f2-f8488e94af3c) -->
+
+![diagram-export-6-2-2024-2_58_19-AM](https://github.com/fixflex/backend/assets/124518625/2b088b98-5f52-427d-bacc-7a5b931d1b19)
 
 <!-- ![diagram-export-6-3-2024-5_22_11-AM](https://github.com/fixflex/backend/assets/124518625/71853e1f-467b-4f41-be44-285f26c33364)
 ![diagram-export-6-2-2024-5_45_12-AM](https://github.com/fixflex/backend/assets/124518625/5a8ecca1-19cf-49bc-9e08-2291b06546f8)
