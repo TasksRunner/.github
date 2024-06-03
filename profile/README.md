@@ -311,6 +311,8 @@ Our FixFlex will consist of the following users:
 
 ### 3.1 Software Architecture Diagram
 
+![diagram-export-6-3-2024-4_52_20-AM](https://github.com/fixflex/backend/assets/124518625/07d13334-31f0-400b-82a1-ad4c6f4ac67f)
+![diagram-export-6-3-2024-4_07_24-AM](https://github.com/fixflex/backend/assets/124518625/9613428a-f276-490a-a69e-7cb9de723579)
 ![diagram-export-6-3-2024-12_55_29-AM](https://github.com/fixflex/backend/assets/124518625/7be183fc-3d78-4dda-95ba-0d992c8dadd0)
 
 ### 3.2 Design of Database (ERD or Class Diagram)
@@ -321,10 +323,13 @@ Our FixFlex will consist of the following users:
 
 ### 3.3 Use Case Diagram
 
+![diagram-export-6-3-2024-5_39_11-AM](https://github.com/fixflex/backend/assets/124518625/79a9e9c9-7a5f-43ee-8104-5efdca74b383)
 ![diagram-export-6-2-2024-5_35_06-AM](https://github.com/fixflex/backend/assets/124518625/9821d322-2b4b-41fa-907e-2e98fdb23695)
 
 ### 3.4 Sequence Diagram
 
+![diagram-export-6-3-2024-5_22_11-AM](https://github.com/fixflex/backend/assets/124518625/6a5edb6e-a134-4d01-b9f2-f8488e94af3c)
+![diagram-export-6-3-2024-5_22_11-AM](https://github.com/fixflex/backend/assets/124518625/71853e1f-467b-4f41-be44-285f26c33364)
 ![diagram-export-6-2-2024-5_45_12-AM](https://github.com/fixflex/backend/assets/124518625/5a8ecca1-19cf-49bc-9e08-2291b06546f8)
 ![diagram-export-6-2-2024-2_58_19-AM](https://github.com/fixflex/backend/assets/124518625/2b088b98-5f52-427d-bacc-7a5b931d1b19)
 
@@ -333,10 +338,12 @@ Our FixFlex will consist of the following users:
 
 ### 3.5 Activity Diagram
 
+![diagram-export-6-3-2024-5_45_23-AM](https://github.com/fixflex/backend/assets/124518625/520c2a24-b8ea-43f9-b8a1-0569d3f1b828)
 ![diagram-export-6-2-2024-5_54_09-AM](https://github.com/fixflex/backend/assets/124518625/c0a8ea52-ecc6-4de3-90fb-bf5a77625418)
 
 ### 3.6 State Diagram
 
+![diagram-export-6-3-2024-5_50_41-AM](https://github.com/fixflex/backend/assets/124518625/b8b73304-e6e3-4fd4-a94c-d2335464d7ab)
 ![diagram-export-6-2-2024-6_05_06-AM](https://github.com/fixflex/backend/assets/124518625/07393cf0-45c2-4802-84db-430ba57f4c0d)
 
 ---
