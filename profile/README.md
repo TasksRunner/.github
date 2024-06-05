@@ -444,6 +444,7 @@ The API design for `fixflex` follows RESTful principles, with clear and predicta
 - **Services**: Contain business logic, interact with the database, and perform operations on data.
 - **Sockets**: Implement real-time communication between clients and servers using WebSockets.
 - **Types**: Define custom TypeScript types, interfaces, and declarations for better type safety and code quality.
+<!--
 
 ## Error Handling 🚨
 
@@ -453,7 +454,7 @@ The backend architecture of `fixflex` includes a robust error handling mechanism
 - `Error Middleware`: Implements error middleware functions to catch and handle exceptions, log errors, and send error responses to clients.
 - `Global Error Handling`: Centralizes error handling logic in a global error handler middleware to ensure consistent error responses across the application.
 - `Error Logging`: Logs errors and exceptions to track application behavior, monitor performance, and debug issues effectively.
-- `Error Response Format`: Standardizes error responses with a consistent format, including status codes, error messages, error details, and stack traces.
+- `Error Response Format`: Standardizes error responses with a consistent format, including status codes, error messages, error details, and stack traces. -->
 
 ---
 
