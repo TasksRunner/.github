@@ -51,8 +51,12 @@
 
 ### Chapter 6: Result
 
+<!--
 - [6.1 Expected Results](#61-expected-results)
-- [6.2 Actual Results](#62-actual-results)
+- [6.2 Actual Results](#62-actual-results) -->
+
+- [6.1 Video Demonstration for mobile app](#61-video-demonstration-for-mobile-app)
+- [6.2 Video Demonstration for web app](#62-video-demonstration-for-web-app)
 
 ### Chapter 7: Conclusion
 
@@ -478,6 +482,7 @@ The backend architecture of `fixflex` includes a robust error handling mechanism
 
 ## Chapter 6: Result
 
+<!--
 ### 6.1 Expected Results
 
 The FixFlex platform is expected to:
@@ -498,7 +503,15 @@ The actual results of the FixFlex platform will be evaluated based on the follow
 - The effectiveness of the rating and review system in maintaining service quality.
 - User satisfaction with payment security and transaction processes.
 - The adoption rate of the mobile applications among users.
-- The level of community engagement and support fostered by the platform.
+- The level of community engagement and support fostered by the platform. -->
+
+### 6.1 Video Demonstration for mobile app
+
+https://github.com/fixflex/backend/assets/124518625/cc9847ad-8c4d-47cf-ac21-739fe535e055
+
+### 6.2 Video Demonstration for web app
+
+[![FixFlex Web App](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ---
 
