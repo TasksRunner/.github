@@ -1,5 +1,9 @@
 # Welcome to `FixFlex Documentation`!
 
+<!-- "For a comprehensive understanding of our project, visit: Extensive Documentation." -->
+
+### You can find the `comprehensive documentation` for the project here: [Extensive Documentation](https://github.com/fixflex/.github).
+
 ## Table of Contents
 
 ### Chapter 1: Introduction
