@@ -509,13 +509,13 @@ The actual results of the FixFlex platform will be evaluated based on the follow
 
 <!-- https://github.com/fixflex/backend/assets/124518625/cc9847ad-8c4d-47cf-ac21-739fe535e055 -->
 
-https://github.com/fixflex/backend/assets/124518625/e63c8aa0-2f2d-4a80-9b0d-81201b3556fd
+https://github.com/fixflex/backend/assets/124518625/9516bb93-a777-407d-8f49-1ce72caf1f49
 
 ### 6.2 Video Demonstration for web app
 
 <!-- [![FixFlex Web App](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
 
-https://github.com/fixflex/backend/assets/124518625/9516bb93-a777-407d-8f49-1ce72caf1f49
+https://github.com/fixflex/backend/assets/124518625/e63c8aa0-2f2d-4a80-9b0d-81201b3556fd
 
 ---
 
