@@ -507,11 +507,15 @@ The actual results of the FixFlex platform will be evaluated based on the follow
 
 ### 6.1 Video Demonstration for mobile app
 
-https://github.com/fixflex/backend/assets/124518625/cc9847ad-8c4d-47cf-ac21-739fe535e055
+<!-- https://github.com/fixflex/backend/assets/124518625/cc9847ad-8c4d-47cf-ac21-739fe535e055 -->
+
+https://github.com/fixflex/backend/assets/124518625/e63c8aa0-2f2d-4a80-9b0d-81201b3556fd
 
 ### 6.2 Video Demonstration for web app
 
-[![FixFlex Web App](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+<!-- [![FixFlex Web App](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
+
+https://github.com/fixflex/backend/assets/124518625/9516bb93-a777-407d-8f49-1ce72caf1f49
 
 ---
 
@@ -521,4 +525,4 @@ https://github.com/fixflex/backend/assets/124518625/cc9847ad-8c4d-47cf-ac21-739f
 
 In conclusion, the FixFlex platform represents a significant advancement in connecting individuals seeking various task services with skilled professionals ready to offer their expertise. By prioritizing accessibility, reliability, and community support, FixFlex aims to become a go-to solution for everyday tasks and services.
 
-We extend our heartfelt gratitude to Dr. Helal Ahmed, our esteemed supervisor, for his invaluable guidance and support throughout our graduation project. His insights and encouragement have been instrumental in the successful development and implementation of FixFlex.
+# We extend our heartfelt gratitude to Dr. Helal Ahmed, our esteemed supervisor, for his invaluable guidance and support throughout our graduation project. His insights and encouragement have been instrumental in the successful development and implementation of FixFlex.
