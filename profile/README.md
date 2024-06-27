@@ -1,8 +1,8 @@
-# Welcome to `FixFlex Documentation`!
+# Welcome to `FixFlex` 🛠️
 
 <!-- "For a comprehensive understanding of our project, visit: Extensive Documentation." -->
 
-### You can find the `comprehensive documentation` for the project here: [Extensive Documentation](https://github.com/fixflex/.github).
+### You can find `comprehensive documentation` for the project here: [Documentation](https://github.com/fixflex/.github).
 
 ## Table of Contents
 
