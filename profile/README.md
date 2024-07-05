@@ -322,16 +322,11 @@ Our FixFlex will consist of the following users:
 
 ### 3.1 Software Architecture Diagram
 
-![diagram-export-6-3-2024-4_52_20-AM](https://github.com/fixflex/backend/assets/124518625/07d13334-31f0-400b-82a1-ad4c6f4ac67f)
-
-<!-- ![diagram-export-6-3-2024-4_07_24-AM](https://github.com/fixflex/backend/assets/124518625/9613428a-f276-490a-a69e-7cb9de723579)
-![diagram-export-6-3-2024-12_55_29-AM](https://github.com/fixflex/backend/assets/124518625/7be183fc-3d78-4dda-95ba-0d992c8dadd0) -->
+![diagram-export-7-5-2024-9_14_27-PM](https://github.com/fixflex/backend/assets/124518625/552c54db-c20a-4bd1-ac82-5170548b51c1)
 
 ### 3.2 Design of Database (ERD or Class Diagram)
 
 ![diagram-export-6-3-2024-12_16_26-AM](https://github.com/fixflex/backend/assets/124518625/c094b37f-0e4b-41a6-9d28-2df0da258110)
-
-<!-- [View on Eraser![](https://app.eraser.io/workspace/XwWDPW5cER2Ni7aB0mRw/preview?elements=z_CjHs8IOks5nioHBSA7gw&type=embed)](https://app.eraser.io/workspace/XwWDPW5cER2Ni7aB0mRw?elements=z_CjHs8IOks5nioHBSA7gw) -->
 
 ### 3.3 Use Case Diagram
 
@@ -339,28 +334,15 @@ Our FixFlex will consist of the following users:
 
 ### 3.4 Sequence Diagram
 
-<!-- ![diagram-export-6-3-2024-5_22_11-AM](https://github.com/fixflex/backend/assets/124518625/6a5edb6e-a134-4d01-b9f2-f8488e94af3c) -->
-
 ![diagram-export-6-2-2024-2_58_19-AM](https://github.com/fixflex/backend/assets/124518625/2b088b98-5f52-427d-bacc-7a5b931d1b19)
-
-<!-- ![diagram-export-6-3-2024-5_22_11-AM](https://github.com/fixflex/backend/assets/124518625/71853e1f-467b-4f41-be44-285f26c33364)
-![diagram-export-6-2-2024-5_45_12-AM](https://github.com/fixflex/backend/assets/124518625/5a8ecca1-19cf-49bc-9e08-2291b06546f8)
-![diagram-export-6-2-2024-2_58_19-AM](https://github.com/fixflex/backend/assets/124518625/2b088b98-5f52-427d-bacc-7a5b931d1b19) -->
-
-<!--
-[![APIs and Services](https://app.eraser.io/workspace/uLd8gYOOKbkHgaqYzJQ7/preview?elements=6-V8_N9yupVgbS8NmmFVCg&type=embed)](https://app.eraser.io/workspace/uLd8gYOOKbkHgaqYzJQ7?elements=6-V8_N9yupVgbS8NmmFVCg) -->
 
 ### 3.5 Activity Diagram
 
 ![diagram-export-6-3-2024-5_45_23-AM](https://github.com/fixflex/backend/assets/124518625/520c2a24-b8ea-43f9-b8a1-0569d3f1b828)
 
-<!-- ![diagram-export-6-2-2024-5_54_09-AM](https://github.com/fixflex/backend/assets/124518625/c0a8ea52-ecc6-4de3-90fb-bf5a77625418) -->
-
 ### 3.6 State Diagram
 
 ![diagram-export-6-3-2024-5_50_41-AM](https://github.com/fixflex/backend/assets/124518625/b8b73304-e6e3-4fd4-a94c-d2335464d7ab)
-
-<!-- ![diagram-export-6-2-2024-6_05_06-AM](https://github.com/fixflex/backend/assets/124518625/07393cf0-45c2-4802-84db-430ba57f4c0d) -->
 
 ### 3.7 Workflow Diagram
 
@@ -376,7 +358,7 @@ Our FixFlex will consist of the following users:
 
 The backend of `fixflex` follows a modular, scalable, and maintainable architecture, leveraging TypeScript, Express.js, and MongoDB. The architecture is designed to ensure code reusability, separation of concerns, and scalability to accommodate future growth and changes in the application's requirements.
 
-## Model-View-Controller (MVC) Pattern 🌐
+<!-- ## Model-View-Controller (MVC) Pattern 🌐
 
 The backend architecture of `fixflex` follows the Model-View-Controller (MVC) pattern, which divides the application into three main components:
 
@@ -452,7 +434,7 @@ The API design for `fixflex` follows RESTful principles, with clear and predicta
 - **Services**: Contain business logic, interact with the database, and perform operations on data.
 - **Sockets**: Implement real-time communication between clients and servers using WebSockets.
 - **Types**: Define custom TypeScript types, interfaces, and declarations for better type safety and code quality.
-<!--
+
 
 ## Error Handling 🚨
 
