@@ -2,7 +2,7 @@
 
 <!-- "For a comprehensive understanding of our project, visit: Extensive Documentation." -->
 
-### You can find full documentation for the project here [Documentation](https://github.com/fixflex/.github).
+### You can find project pdf documentation [here](https://github.com/fixflex/.github).
 
 ## Table of Contents
 
