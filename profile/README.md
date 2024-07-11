@@ -40,8 +40,8 @@
 - [3.5 Activity Diagram](#35-activity-diagram)
 - [3.6 State Diagram](#36-state-diagram)
 - [3.7 Workflow Diagram](#37-workflow-diagram)
-- [3.8 Deployment Diagram](#38-deployment-diagram)
-<!-- - [3.9 Component Diagram](#39-component-diagram) -->
+  <!-- - [3.8 Deployment Diagram](#38-deployment-diagram) -->
+  <!-- - [3.9 Component Diagram](#39-component-diagram) -->
 
 ### Chapter 4: System Implementation and Results
 
@@ -347,10 +347,6 @@ Our FixFlex will consist of the following users:
 ### 3.7 Workflow Diagram
 
 ![diagram-export-6-3-2024-1_55_55-AM](https://github.com/fixflex/backend/assets/124518625/82feb5d9-872c-4a59-82c5-6c629464005a)
-
-### 3.8 Deployment Diagram
-
-![diagram-export-6-3-2024-6_55_38-AM](https://github.com/fixflex/backend/assets/124518625/b196bf46-d42d-4b94-abf8-972e7b433840)
 
 ## Chapter 4: System Implementation and Results
 
